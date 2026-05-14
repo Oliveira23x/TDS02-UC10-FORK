@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\",
+  "WorkspaceRootPath": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\aecio.mbrito\\documents\\tds02-uc10\\01\\controleestoque\\controleestoque.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\diego.faoliveira\\documents\\tds02-uc10-fork\\01\\controleestoque\\controleestoque.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|solutionrelative:controleestoque.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\aecio.mbrito\\documents\\tds02-uc10\\01\\controleestoque\\controleestoque.api\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\diego.faoliveira\\documents\\tds02-uc10-fork\\01\\controleestoque\\controleestoque.api\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|solutionrelative:controleestoque.api\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\aecio.mbrito\\documents\\tds02-uc10\\01\\controleestoque\\controleestoque.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\diego.faoliveira\\documents\\tds02-uc10-fork\\01\\controleestoque\\controleestoque.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|solutionrelative:controleestoque.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\aecio.mbrito\\documents\\tds02-uc10\\01\\controleestoque\\controleestoque.api\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\diego.faoliveira\\documents\\tds02-uc10-fork\\01\\controleestoque\\controleestoque.api\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|solutionrelative:controleestoque.api\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\aecio.mbrito\\documents\\tds02-uc10\\01\\controleestoque\\controleestoque.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\diego.faoliveira\\documents\\tds02-uc10-fork\\01\\controleestoque\\controleestoque.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6641EA26-0657-4EF5-B145-F6F5B0553EFC}|ControleEstoque.API\\ControleEstoque.API.csproj|solutionrelative:controleestoque.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,61 +36,57 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\Services\\IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\Services\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "ControleEstoque.API\\Services\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\Services\\IUsuarioService.cs",
               "RelativeToolTip": "ControleEstoque.API\\Services\\IUsuarioService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T22:55:27.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T22:55:27.632Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\DTOs\\UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\DTOs\\UsuarioDto.cs",
               "RelativeDocumentMoniker": "ControleEstoque.API\\DTOs\\UsuarioDto.cs",
-              "ToolTip": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\DTOs\\UsuarioDto.cs",
               "RelativeToolTip": "ControleEstoque.API\\DTOs\\UsuarioDto.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T22:29:19.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T22:29:19.605Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ControleEstoque.API\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\Models\\Usuario.cs",
               "RelativeToolTip": "ControleEstoque.API\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T22:16:15.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T22:16:15.825Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\Services\\UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "ControleEstoque.API\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\Services\\UsuarioService.cs",
               "RelativeToolTip": "ControleEstoque.API\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA9wHsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T22:20:23.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T22:20:23.843Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\Controllers\\UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "ControleEstoque.API\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\aecio.mbrito\\Documents\\TDS02-UC10\\01\\ControleEstoque\\ControleEstoque.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\diego.faoliveira\\Documents\\TDS02-UC10-FORK\\01\\ControleEstoque\\ControleEstoque.API\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "ControleEstoque.API\\Controllers\\UsuariosController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAmwDoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
