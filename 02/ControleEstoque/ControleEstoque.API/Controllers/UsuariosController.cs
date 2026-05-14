@@ -42,5 +42,6 @@ namespace ControleEstoque.API.Controllers
             var novoGerente = await _usuarioService.RegistrarGerenteAsync(dto);
             return Ok(novoGerente);
         }
+
     }
 }

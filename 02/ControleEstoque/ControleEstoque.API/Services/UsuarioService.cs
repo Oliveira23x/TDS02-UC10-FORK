@@ -8,10 +8,12 @@ namespace ControleEstoque.API.Services
     public class UsuarioService : IUsuarioService
     {
         private readonly AppDbContext _context;
+        private readonly IPasswordService _passwordService; 
 
         public UsuarioService(AppDbContext context)
         {
             _context = context;
+            _passwordService = new PasswordService();
         }
 
         public async Task<UsuarioDto> RegistrarClienteAsync(CriarClienteDto dto)
@@ -20,7 +22,7 @@ namespace ControleEstoque.API.Services
             {
                 Nome = dto.Nome,
                 Email = dto.Email,
-                SenhaHash = dto.Senha, // Sem criptografia nesta etapa inicial
+                SenhaHash = _passwordService.HashPassword(dto.Senha),
                 CPF = dto.CPF,
                 Perfil = PerfilUsuario.Cliente
             };
@@ -36,7 +38,7 @@ namespace ControleEstoque.API.Services
             {
                 Nome = dto.Nome,
                 Email = dto.Email,
-                SenhaHash = dto.Senha,
+                SenhaHash = _passwordService.HashPassword(dto.Senha),
                 Turno = dto.Turno,
                 Perfil = PerfilUsuario.Caixa
             };
@@ -52,7 +54,7 @@ namespace ControleEstoque.API.Services
             {
                 Nome = dto.Nome,
                 Email = dto.Email,
-                SenhaHash = dto.Senha,
+                SenhaHash = _passwordService.HashPassword(dto.Senha),
                 Setor = dto.Setor,
                 Perfil = PerfilUsuario.Gerente
             };
@@ -72,6 +74,20 @@ namespace ControleEstoque.API.Services
         {
             var usuario = await _context.Usuarios.AsNoTracking().FirstOrDefaultAsync(u => u.Email == email);
             return usuario != null ? MapearParaDto(usuario) : null;
+        }
+
+        public async Task<UsuarioDto?> AutenticarAsync(LoginDto dto)
+        {
+            var usuario = await _context.Usuarios
+                .FirstOrDefaultAsync(u => u.Email == dto.Email);
+
+            if (usuario == null) return null; 
+
+            if (!_passwordService.VerifyPassword(dto.Senha, usuario.SenhaHash))
+            {
+                return null;
+            }
+            return MapearParaDto(usuario);
         }
 
         private static UsuarioDto MapearParaDto(Usuario usuario)
